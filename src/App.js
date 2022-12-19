@@ -1,7 +1,7 @@
 import React from "react";
 import Rock from './images/rock.png'
-import Paper from './images/rock.png'
-import Scissors from './images/rock.png'
+import Paper from './images/paper.png'
+import Scissors from './images/scissors.png'
 import "./styles.css";
 import "./";
 
